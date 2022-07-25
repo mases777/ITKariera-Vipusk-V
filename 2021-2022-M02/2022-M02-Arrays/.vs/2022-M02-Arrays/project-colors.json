@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "759b4125-34da-40a7-8203-6f8acc4d3c74": {
+      "ProjectGuid": "759b4125-34da-40a7-8203-6f8acc4d3c74",
+      "DisplayName": "Zadacha03",
+      "ColorIndex": 0
+    },
+    "bd37b1ab-e054-48fa-95b6-7fe360038aff": {
+      "ProjectGuid": "bd37b1ab-e054-48fa-95b6-7fe360038aff",
+      "DisplayName": "Zadacha01",
+      "ColorIndex": 1
+    },
+    "9bf27502-c128-4a67-86a2-e0b4b239d381": {
+      "ProjectGuid": "9bf27502-c128-4a67-86a2-e0b4b239d381",
+      "DisplayName": "Zadacha04",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

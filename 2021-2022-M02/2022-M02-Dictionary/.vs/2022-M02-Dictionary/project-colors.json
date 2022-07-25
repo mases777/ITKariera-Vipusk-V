@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "41d521a1-671a-4f34-928a-a03f39903d6e": {
+      "ProjectGuid": "41d521a1-671a-4f34-928a-a03f39903d6e",
+      "DisplayName": "ConsoleApp3",
+      "ColorIndex": 0
+    },
+    "10484f5b-b187-4687-9023-db194c73736c": {
+      "ProjectGuid": "10484f5b-b187-4687-9023-db194c73736c",
+      "DisplayName": "Zadacha01",
+      "ColorIndex": 1
+    },
+    "6673973d-3467-4149-9c5d-30b6752d0ae2": {
+      "ProjectGuid": "6673973d-3467-4149-9c5d-30b6752d0ae2",
+      "DisplayName": "Zadacha02",
+      "ColorIndex": 2
+    },
+    "dd7ffaa5-3aed-4f6e-bf2a-ccf580cab4dd": {
+      "ProjectGuid": "dd7ffaa5-3aed-4f6e-bf2a-ccf580cab4dd",
+      "DisplayName": "Zadacha03",
+      "ColorIndex": 3
+    },
+    "8985a681-e648-44c9-b4ef-815eef995b13": {
+      "ProjectGuid": "8985a681-e648-44c9-b4ef-815eef995b13",
+      "DisplayName": "Zadacha04",
+      "ColorIndex": 4
+    },
+    "5356a259-4850-4161-9466-733760191878": {
+      "ProjectGuid": "5356a259-4850-4161-9466-733760191878",
+      "DisplayName": "Zadacha05",
+      "ColorIndex": 5
+    },
+    "b21ab3fb-8985-4985-b282-a334bc8e0915": {
+      "ProjectGuid": "b21ab3fb-8985-4985-b282-a334bc8e0915",
+      "DisplayName": "Zadacha06",
+      "ColorIndex": 6
+    },
+    "3c4b0094-4315-463a-8dc9-45403febe62e": {
+      "ProjectGuid": "3c4b0094-4315-463a-8dc9-45403febe62e",
+      "DisplayName": "Zadacha07",
+      "ColorIndex": 7
+    },
+    "6e25ef9a-b2ad-46ea-9c93-4562d92e9d5a": {
+      "ProjectGuid": "6e25ef9a-b2ad-46ea-9c93-4562d92e9d5a",
+      "DisplayName": "Zadacha08",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

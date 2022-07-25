@@ -1,0 +1,7 @@
+F:\repos\2022-M02-Dictionary\Zadacha06\bin\Debug\Zadacha06.exe.config
+F:\repos\2022-M02-Dictionary\Zadacha06\bin\Debug\Zadacha06.exe
+F:\repos\2022-M02-Dictionary\Zadacha06\bin\Debug\Zadacha06.pdb
+F:\repos\2022-M02-Dictionary\Zadacha06\obj\Debug\Zadacha06.csproj.SuggestedBindingRedirects.cache
+F:\repos\2022-M02-Dictionary\Zadacha06\obj\Debug\Zadacha06.csproj.CoreCompileInputs.cache
+F:\repos\2022-M02-Dictionary\Zadacha06\obj\Debug\Zadacha06.exe
+F:\repos\2022-M02-Dictionary\Zadacha06\obj\Debug\Zadacha06.pdb

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3f369711-5b3f-4ed3-a516-90171408a056": {
+      "ProjectGuid": "3f369711-5b3f-4ed3-a516-90171408a056",
+      "DisplayName": "ConsoleApp3",
+      "ColorIndex": 0
+    },
+    "36834c77-da2d-4f26-8325-ccdb30005210": {
+      "ProjectGuid": "36834c77-da2d-4f26-8325-ccdb30005210",
+      "DisplayName": "Zadacha01",
+      "ColorIndex": 1
+    },
+    "65a5ca41-5051-4689-9a1a-70b9c7118314": {
+      "ProjectGuid": "65a5ca41-5051-4689-9a1a-70b9c7118314",
+      "DisplayName": "Zadacha02",
+      "ColorIndex": 2
+    },
+    "724cb767-999f-48b8-aa95-08fc26f39118": {
+      "ProjectGuid": "724cb767-999f-48b8-aa95-08fc26f39118",
+      "DisplayName": "Zadacha03",
+      "ColorIndex": 3
+    },
+    "1c8ef085-7a49-4d93-8a65-7dcd5cbd98f6": {
+      "ProjectGuid": "1c8ef085-7a49-4d93-8a65-7dcd5cbd98f6",
+      "DisplayName": "Zadacha04",
+      "ColorIndex": 4
+    },
+    "7a3a3597-4ed4-47d4-bdff-a28d5b336fd7": {
+      "ProjectGuid": "7a3a3597-4ed4-47d4-bdff-a28d5b336fd7",
+      "DisplayName": "Zadacha05",
+      "ColorIndex": 5
+    },
+    "a3008e43-7e08-4a4a-bbb0-b44fefb542c5": {
+      "ProjectGuid": "a3008e43-7e08-4a4a-bbb0-b44fefb542c5",
+      "DisplayName": "Zadacha06",
+      "ColorIndex": 6
+    },
+    "7dae06af-b5a2-49a6-a918-7479c191ffa1": {
+      "ProjectGuid": "7dae06af-b5a2-49a6-a918-7479c191ffa1",
+      "DisplayName": "Zadacha07",
+      "ColorIndex": 7
+    },
+    "9be0ad12-6c38-4e74-8a3d-9efe828fc349": {
+      "ProjectGuid": "9be0ad12-6c38-4e74-8a3d-9efe828fc349",
+      "DisplayName": "Zadacha08",
+      "ColorIndex": 8
+    },
+    "b92bfb45-5e96-4704-9947-d33b1dfea9ec": {
+      "ProjectGuid": "b92bfb45-5e96-4704-9947-d33b1dfea9ec",
+      "DisplayName": "Zadacha09",
+      "ColorIndex": 9
+    },
+    "ec146fa9-1a27-4a46-98ee-26d350d6999b": {
+      "ProjectGuid": "ec146fa9-1a27-4a46-98ee-26d350d6999b",
+      "DisplayName": "Zadacha10",
+      "ColorIndex": 10
+    },
+    "a12ebf32-9d3c-4680-87db-20aef303f4d9": {
+      "ProjectGuid": "a12ebf32-9d3c-4680-87db-20aef303f4d9",
+      "DisplayName": "Zadacha11",
+      "ColorIndex": 11
+    },
+    "920515b7-a990-49a3-9755-d9a3124364ba": {
+      "ProjectGuid": "920515b7-a990-49a3-9755-d9a3124364ba",
+      "DisplayName": "Zadacha12",
+      "ColorIndex": 12
+    },
+    "91e52cec-f8de-4864-af0f-3fedeb8aab30": {
+      "ProjectGuid": "91e52cec-f8de-4864-af0f-3fedeb8aab30",
+      "DisplayName": "Zadacha13",
+      "ColorIndex": 13
+    },
+    "830fddaa-8d11-4b17-8b63-745624e8ed93": {
+      "ProjectGuid": "830fddaa-8d11-4b17-8b63-745624e8ed93",
+      "DisplayName": "Zadacha14",
+      "ColorIndex": 14
+    },
+    "d3d2f16b-92fa-443e-a020-9c1efa168ec3": {
+      "ProjectGuid": "d3d2f16b-92fa-443e-a020-9c1efa168ec3",
+      "DisplayName": "Zadacha15",
+      "ColorIndex": 15
+    }
+  },
+  "NextColorIndex": 0
+}
