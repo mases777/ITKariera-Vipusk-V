@@ -1,0 +1,6 @@
+C:\Users\user_GN\Desktop\2021-12-12-Popravitelen-izpit-online\Zadacha02\bin\Debug\Zadacha02.exe.config
+C:\Users\user_GN\Desktop\2021-12-12-Popravitelen-izpit-online\Zadacha02\bin\Debug\Zadacha02.exe
+C:\Users\user_GN\Desktop\2021-12-12-Popravitelen-izpit-online\Zadacha02\bin\Debug\Zadacha02.pdb
+C:\Users\user_GN\Desktop\2021-12-12-Popravitelen-izpit-online\Zadacha02\obj\Debug\Zadacha02.csproj.CoreCompileInputs.cache
+C:\Users\user_GN\Desktop\2021-12-12-Popravitelen-izpit-online\Zadacha02\obj\Debug\Zadacha02.exe
+C:\Users\user_GN\Desktop\2021-12-12-Popravitelen-izpit-online\Zadacha02\obj\Debug\Zadacha02.pdb

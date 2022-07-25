@@ -1,0 +1,14 @@
+C:\Users\user_GN\Desktop\2021-12-12-Popravitelen-izpit-online\Zadacha05\bin\Debug\Zadacha05.exe.config
+C:\Users\user_GN\Desktop\2021-12-12-Popravitelen-izpit-online\Zadacha05\bin\Debug\Zadacha05.exe
+C:\Users\user_GN\Desktop\2021-12-12-Popravitelen-izpit-online\Zadacha05\bin\Debug\Zadacha05.pdb
+C:\Users\user_GN\Desktop\2021-12-12-Popravitelen-izpit-online\Zadacha05\obj\Debug\Zadacha05.csprojAssemblyReference.cache
+C:\Users\user_GN\Desktop\2021-12-12-Popravitelen-izpit-online\Zadacha05\obj\Debug\Zadacha05.csproj.CoreCompileInputs.cache
+C:\Users\user_GN\Desktop\2021-12-12-Popravitelen-izpit-online\Zadacha05\obj\Debug\Zadacha05.exe
+C:\Users\user_GN\Desktop\2021-12-12-Popravitelen-izpit-online\Zadacha05\obj\Debug\Zadacha05.pdb
+F:\repos\2021-12-12-Popravitelen-izpit-online\Zadacha05\bin\Debug\Zadacha05.exe.config
+F:\repos\2021-12-12-Popravitelen-izpit-online\Zadacha05\bin\Debug\Zadacha05.exe
+F:\repos\2021-12-12-Popravitelen-izpit-online\Zadacha05\bin\Debug\Zadacha05.pdb
+F:\repos\2021-12-12-Popravitelen-izpit-online\Zadacha05\obj\Debug\Zadacha05.csprojAssemblyReference.cache
+F:\repos\2021-12-12-Popravitelen-izpit-online\Zadacha05\obj\Debug\Zadacha05.csproj.CoreCompileInputs.cache
+F:\repos\2021-12-12-Popravitelen-izpit-online\Zadacha05\obj\Debug\Zadacha05.exe
+F:\repos\2021-12-12-Popravitelen-izpit-online\Zadacha05\obj\Debug\Zadacha05.pdb

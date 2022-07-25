@@ -1,0 +1,7 @@
+F:\repos\2021-12-05-Izpit-online\Zadacha01\bin\Debug\Zadacha01.exe.config
+F:\repos\2021-12-05-Izpit-online\Zadacha01\bin\Debug\Zadacha01.exe
+F:\repos\2021-12-05-Izpit-online\Zadacha01\bin\Debug\Zadacha01.pdb
+F:\repos\2021-12-05-Izpit-online\Zadacha01\obj\Debug\Zadacha01.csprojAssemblyReference.cache
+F:\repos\2021-12-05-Izpit-online\Zadacha01\obj\Debug\Zadacha01.csproj.CoreCompileInputs.cache
+F:\repos\2021-12-05-Izpit-online\Zadacha01\obj\Debug\Zadacha01.exe
+F:\repos\2021-12-05-Izpit-online\Zadacha01\obj\Debug\Zadacha01.pdb
