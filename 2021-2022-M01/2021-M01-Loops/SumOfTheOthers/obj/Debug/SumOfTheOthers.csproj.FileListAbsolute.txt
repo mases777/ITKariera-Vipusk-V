@@ -1,0 +1,6 @@
+F:\repos\2021-M01-Loops\SumOfTheOthers\bin\Debug\SumOfTheOthers.exe.config
+F:\repos\2021-M01-Loops\SumOfTheOthers\bin\Debug\SumOfTheOthers.exe
+F:\repos\2021-M01-Loops\SumOfTheOthers\bin\Debug\SumOfTheOthers.pdb
+F:\repos\2021-M01-Loops\SumOfTheOthers\obj\Debug\SumOfTheOthers.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Loops\SumOfTheOthers\obj\Debug\SumOfTheOthers.exe
+F:\repos\2021-M01-Loops\SumOfTheOthers\obj\Debug\SumOfTheOthers.pdb

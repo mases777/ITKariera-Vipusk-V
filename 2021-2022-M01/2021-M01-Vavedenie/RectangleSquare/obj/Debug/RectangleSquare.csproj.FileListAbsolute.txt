@@ -1,0 +1,7 @@
+F:\repos\2021-M01-Vavedenie\RectangleSquare\bin\Debug\RectangleSquare.exe.config
+F:\repos\2021-M01-Vavedenie\RectangleSquare\bin\Debug\RectangleSquare.exe
+F:\repos\2021-M01-Vavedenie\RectangleSquare\bin\Debug\RectangleSquare.pdb
+F:\repos\2021-M01-Vavedenie\RectangleSquare\obj\Debug\RectangleSquare.csprojAssemblyReference.cache
+F:\repos\2021-M01-Vavedenie\RectangleSquare\obj\Debug\RectangleSquare.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Vavedenie\RectangleSquare\obj\Debug\RectangleSquare.exe
+F:\repos\2021-M01-Vavedenie\RectangleSquare\obj\Debug\RectangleSquare.pdb

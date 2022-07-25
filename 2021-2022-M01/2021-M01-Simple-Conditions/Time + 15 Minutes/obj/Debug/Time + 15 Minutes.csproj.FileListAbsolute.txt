@@ -1,0 +1,6 @@
+F:\repos\Simple-Conditions\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.exe.config
+F:\repos\Simple-Conditions\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.exe
+F:\repos\Simple-Conditions\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.pdb
+F:\repos\Simple-Conditions\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.csproj.CoreCompileInputs.cache
+F:\repos\Simple-Conditions\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.exe
+F:\repos\Simple-Conditions\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.pdb

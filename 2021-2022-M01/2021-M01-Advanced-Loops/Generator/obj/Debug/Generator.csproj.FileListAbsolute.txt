@@ -1,0 +1,6 @@
+F:\repos\2021-M01-Advanced-Loops\Generator\bin\Debug\Generator.exe.config
+F:\repos\2021-M01-Advanced-Loops\Generator\bin\Debug\Generator.exe
+F:\repos\2021-M01-Advanced-Loops\Generator\bin\Debug\Generator.pdb
+F:\repos\2021-M01-Advanced-Loops\Generator\obj\Debug\Generator.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Advanced-Loops\Generator\obj\Debug\Generator.exe
+F:\repos\2021-M01-Advanced-Loops\Generator\obj\Debug\Generator.pdb

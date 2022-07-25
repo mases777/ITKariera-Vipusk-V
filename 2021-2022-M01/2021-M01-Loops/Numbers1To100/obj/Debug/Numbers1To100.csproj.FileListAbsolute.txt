@@ -1,0 +1,7 @@
+F:\repos\2021-M01-Loops\Numbers1To100\bin\Debug\Numbers1To100.exe.config
+F:\repos\2021-M01-Loops\Numbers1To100\bin\Debug\Numbers1To100.exe
+F:\repos\2021-M01-Loops\Numbers1To100\bin\Debug\Numbers1To100.pdb
+F:\repos\2021-M01-Loops\Numbers1To100\obj\Debug\Numbers1To100.csprojAssemblyReference.cache
+F:\repos\2021-M01-Loops\Numbers1To100\obj\Debug\Numbers1To100.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Loops\Numbers1To100\obj\Debug\Numbers1To100.exe
+F:\repos\2021-M01-Loops\Numbers1To100\obj\Debug\Numbers1To100.pdb

@@ -1,0 +1,6 @@
+F:\repos\2021-M01-Advanced-Loops\TheLCD\bin\Debug\TheLCD.exe.config
+F:\repos\2021-M01-Advanced-Loops\TheLCD\bin\Debug\TheLCD.exe
+F:\repos\2021-M01-Advanced-Loops\TheLCD\bin\Debug\TheLCD.pdb
+F:\repos\2021-M01-Advanced-Loops\TheLCD\obj\Debug\TheLCD.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Advanced-Loops\TheLCD\obj\Debug\TheLCD.exe
+F:\repos\2021-M01-Advanced-Loops\TheLCD\obj\Debug\TheLCD.pdb

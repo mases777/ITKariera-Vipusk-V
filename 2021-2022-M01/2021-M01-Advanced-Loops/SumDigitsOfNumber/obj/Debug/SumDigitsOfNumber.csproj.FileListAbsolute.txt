@@ -1,0 +1,6 @@
+F:\repos\2021-M01-Advanced-Loops\SumDigitsOfNumber\bin\Debug\SumDigitsOfNumber.exe.config
+F:\repos\2021-M01-Advanced-Loops\SumDigitsOfNumber\bin\Debug\SumDigitsOfNumber.exe
+F:\repos\2021-M01-Advanced-Loops\SumDigitsOfNumber\bin\Debug\SumDigitsOfNumber.pdb
+F:\repos\2021-M01-Advanced-Loops\SumDigitsOfNumber\obj\Debug\SumDigitsOfNumber.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Advanced-Loops\SumDigitsOfNumber\obj\Debug\SumDigitsOfNumber.exe
+F:\repos\2021-M01-Advanced-Loops\SumDigitsOfNumber\obj\Debug\SumDigitsOfNumber.pdb

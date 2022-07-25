@@ -1,0 +1,6 @@
+F:\repos\2021-M01-Loops\SquareFrame\bin\Debug\SquareFrame.exe.config
+F:\repos\2021-M01-Loops\SquareFrame\bin\Debug\SquareFrame.exe
+F:\repos\2021-M01-Loops\SquareFrame\bin\Debug\SquareFrame.pdb
+F:\repos\2021-M01-Loops\SquareFrame\obj\Debug\SquareFrame.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Loops\SquareFrame\obj\Debug\SquareFrame.exe
+F:\repos\2021-M01-Loops\SquareFrame\obj\Debug\SquareFrame.pdb

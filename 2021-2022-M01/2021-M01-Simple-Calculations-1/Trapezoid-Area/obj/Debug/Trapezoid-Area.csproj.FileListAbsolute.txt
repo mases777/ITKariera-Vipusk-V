@@ -1,0 +1,7 @@
+F:\repos\2021-M01-Simple-Calculations-1\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe.config
+F:\repos\2021-M01-Simple-Calculations-1\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe
+F:\repos\2021-M01-Simple-Calculations-1\Trapezoid-Area\bin\Debug\Trapezoid-Area.pdb
+F:\repos\2021-M01-Simple-Calculations-1\Trapezoid-Area\obj\Debug\Trapezoid-Area.csprojAssemblyReference.cache
+F:\repos\2021-M01-Simple-Calculations-1\Trapezoid-Area\obj\Debug\Trapezoid-Area.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Simple-Calculations-1\Trapezoid-Area\obj\Debug\Trapezoid-Area.exe
+F:\repos\2021-M01-Simple-Calculations-1\Trapezoid-Area\obj\Debug\Trapezoid-Area.pdb

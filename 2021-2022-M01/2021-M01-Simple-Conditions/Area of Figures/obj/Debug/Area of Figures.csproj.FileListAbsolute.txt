@@ -1,0 +1,7 @@
+F:\repos\Simple-Conditions\Area of Figures\bin\Debug\Area of Figures.exe.config
+F:\repos\Simple-Conditions\Area of Figures\bin\Debug\Area of Figures.exe
+F:\repos\Simple-Conditions\Area of Figures\bin\Debug\Area of Figures.pdb
+F:\repos\Simple-Conditions\Area of Figures\obj\Debug\Area of Figures.csprojAssemblyReference.cache
+F:\repos\Simple-Conditions\Area of Figures\obj\Debug\Area of Figures.csproj.CoreCompileInputs.cache
+F:\repos\Simple-Conditions\Area of Figures\obj\Debug\Area of Figures.exe
+F:\repos\Simple-Conditions\Area of Figures\obj\Debug\Area of Figures.pdb

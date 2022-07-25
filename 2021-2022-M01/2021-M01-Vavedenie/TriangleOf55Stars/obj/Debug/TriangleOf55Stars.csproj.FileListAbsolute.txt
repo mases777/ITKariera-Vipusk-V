@@ -1,0 +1,6 @@
+F:\repos\2021-M01-Vavedenie\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe.config
+F:\repos\2021-M01-Vavedenie\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe
+F:\repos\2021-M01-Vavedenie\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.pdb
+F:\repos\2021-M01-Vavedenie\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Vavedenie\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.exe
+F:\repos\2021-M01-Vavedenie\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.pdb

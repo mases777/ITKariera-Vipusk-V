@@ -1,0 +1,6 @@
+F:\repos\2021-M01-Loops\MaxNumber\bin\Debug\MaxNumber.exe.config
+F:\repos\2021-M01-Loops\MaxNumber\bin\Debug\MaxNumber.exe
+F:\repos\2021-M01-Loops\MaxNumber\bin\Debug\MaxNumber.pdb
+F:\repos\2021-M01-Loops\MaxNumber\obj\Debug\MaxNumber.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Loops\MaxNumber\obj\Debug\MaxNumber.exe
+F:\repos\2021-M01-Loops\MaxNumber\obj\Debug\MaxNumber.pdb

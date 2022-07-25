@@ -1,0 +1,6 @@
+F:\repos\2021-M01-Complex-Conditions\Pool\bin\Debug\Pool.exe.config
+F:\repos\2021-M01-Complex-Conditions\Pool\bin\Debug\Pool.exe
+F:\repos\2021-M01-Complex-Conditions\Pool\bin\Debug\Pool.pdb
+F:\repos\2021-M01-Complex-Conditions\Pool\obj\Debug\Pool.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Complex-Conditions\Pool\obj\Debug\Pool.exe
+F:\repos\2021-M01-Complex-Conditions\Pool\obj\Debug\Pool.pdb

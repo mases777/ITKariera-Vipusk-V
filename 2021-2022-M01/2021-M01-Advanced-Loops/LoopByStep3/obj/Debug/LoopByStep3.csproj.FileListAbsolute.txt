@@ -1,0 +1,7 @@
+F:\repos\2021-M01-Advanced-Loops\LoopByStep3\bin\Debug\LoopByStep3.exe.config
+F:\repos\2021-M01-Advanced-Loops\LoopByStep3\bin\Debug\LoopByStep3.exe
+F:\repos\2021-M01-Advanced-Loops\LoopByStep3\bin\Debug\LoopByStep3.pdb
+F:\repos\2021-M01-Advanced-Loops\LoopByStep3\obj\Debug\LoopByStep3.csprojAssemblyReference.cache
+F:\repos\2021-M01-Advanced-Loops\LoopByStep3\obj\Debug\LoopByStep3.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Advanced-Loops\LoopByStep3\obj\Debug\LoopByStep3.exe
+F:\repos\2021-M01-Advanced-Loops\LoopByStep3\obj\Debug\LoopByStep3.pdb

@@ -1,0 +1,6 @@
+F:\repos\2021-M01-Complex-Conditions\InsideRectangle\bin\Debug\InsideRectangle.exe.config
+F:\repos\2021-M01-Complex-Conditions\InsideRectangle\bin\Debug\InsideRectangle.exe
+F:\repos\2021-M01-Complex-Conditions\InsideRectangle\bin\Debug\InsideRectangle.pdb
+F:\repos\2021-M01-Complex-Conditions\InsideRectangle\obj\Debug\InsideRectangle.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Complex-Conditions\InsideRectangle\obj\Debug\InsideRectangle.exe
+F:\repos\2021-M01-Complex-Conditions\InsideRectangle\obj\Debug\InsideRectangle.pdb

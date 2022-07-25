@@ -1,0 +1,6 @@
+F:\repos\2021-M01-Simple-Calculations-1\Money\bin\Debug\Money.exe.config
+F:\repos\2021-M01-Simple-Calculations-1\Money\bin\Debug\Money.exe
+F:\repos\2021-M01-Simple-Calculations-1\Money\bin\Debug\Money.pdb
+F:\repos\2021-M01-Simple-Calculations-1\Money\obj\Debug\Money.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Simple-Calculations-1\Money\obj\Debug\Money.exe
+F:\repos\2021-M01-Simple-Calculations-1\Money\obj\Debug\Money.pdb

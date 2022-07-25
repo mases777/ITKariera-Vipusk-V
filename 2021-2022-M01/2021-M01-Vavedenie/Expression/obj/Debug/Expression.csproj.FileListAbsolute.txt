@@ -1,0 +1,6 @@
+F:\repos\2021-M01-Vavedenie\Expression\bin\Debug\Expression.exe.config
+F:\repos\2021-M01-Vavedenie\Expression\bin\Debug\Expression.exe
+F:\repos\2021-M01-Vavedenie\Expression\bin\Debug\Expression.pdb
+F:\repos\2021-M01-Vavedenie\Expression\obj\Debug\Expression.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Vavedenie\Expression\obj\Debug\Expression.exe
+F:\repos\2021-M01-Vavedenie\Expression\obj\Debug\Expression.pdb

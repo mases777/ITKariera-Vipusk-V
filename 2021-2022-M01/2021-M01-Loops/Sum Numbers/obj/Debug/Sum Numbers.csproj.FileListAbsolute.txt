@@ -1,0 +1,6 @@
+F:\repos\2021-M01-Loops\Sum Numbers\bin\Debug\Sum Numbers.exe.config
+F:\repos\2021-M01-Loops\Sum Numbers\bin\Debug\Sum Numbers.exe
+F:\repos\2021-M01-Loops\Sum Numbers\bin\Debug\Sum Numbers.pdb
+F:\repos\2021-M01-Loops\Sum Numbers\obj\Debug\Sum Numbers.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Loops\Sum Numbers\obj\Debug\Sum Numbers.exe
+F:\repos\2021-M01-Loops\Sum Numbers\obj\Debug\Sum Numbers.pdb

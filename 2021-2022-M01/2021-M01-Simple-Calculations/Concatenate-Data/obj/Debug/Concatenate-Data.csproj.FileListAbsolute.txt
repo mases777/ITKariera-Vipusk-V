@@ -1,0 +1,6 @@
+F:\repos\2021-M01-Simple-Calculations\Concatenate-Data\bin\Debug\Concatenate-Data.exe.config
+F:\repos\2021-M01-Simple-Calculations\Concatenate-Data\bin\Debug\Concatenate-Data.exe
+F:\repos\2021-M01-Simple-Calculations\Concatenate-Data\bin\Debug\Concatenate-Data.pdb
+F:\repos\2021-M01-Simple-Calculations\Concatenate-Data\obj\Debug\Concatenate-Data.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Simple-Calculations\Concatenate-Data\obj\Debug\Concatenate-Data.exe
+F:\repos\2021-M01-Simple-Calculations\Concatenate-Data\obj\Debug\Concatenate-Data.pdb

@@ -1,0 +1,6 @@
+F:\repos\2021-M01-Complex-Conditions\Cinema Ticket\bin\Debug\Cinema Ticket.exe.config
+F:\repos\2021-M01-Complex-Conditions\Cinema Ticket\bin\Debug\Cinema Ticket.exe
+F:\repos\2021-M01-Complex-Conditions\Cinema Ticket\bin\Debug\Cinema Ticket.pdb
+F:\repos\2021-M01-Complex-Conditions\Cinema Ticket\obj\Debug\Cinema Ticket.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Complex-Conditions\Cinema Ticket\obj\Debug\Cinema Ticket.exe
+F:\repos\2021-M01-Complex-Conditions\Cinema Ticket\obj\Debug\Cinema Ticket.pdb

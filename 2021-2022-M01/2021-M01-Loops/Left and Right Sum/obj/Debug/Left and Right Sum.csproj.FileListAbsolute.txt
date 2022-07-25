@@ -1,0 +1,7 @@
+F:\repos\2021-M01-Loops\Left and Right Sum\bin\Debug\Left and Right Sum.exe.config
+F:\repos\2021-M01-Loops\Left and Right Sum\bin\Debug\Left and Right Sum.exe
+F:\repos\2021-M01-Loops\Left and Right Sum\bin\Debug\Left and Right Sum.pdb
+F:\repos\2021-M01-Loops\Left and Right Sum\obj\Debug\Left and Right Sum.csprojAssemblyReference.cache
+F:\repos\2021-M01-Loops\Left and Right Sum\obj\Debug\Left and Right Sum.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Loops\Left and Right Sum\obj\Debug\Left and Right Sum.exe
+F:\repos\2021-M01-Loops\Left and Right Sum\obj\Debug\Left and Right Sum.pdb

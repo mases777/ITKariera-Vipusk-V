@@ -1,0 +1,6 @@
+F:\repos\2021-M01-Advanced-Loops\Factoriel\bin\Debug\Factoriel.exe.config
+F:\repos\2021-M01-Advanced-Loops\Factoriel\bin\Debug\Factoriel.exe
+F:\repos\2021-M01-Advanced-Loops\Factoriel\bin\Debug\Factoriel.pdb
+F:\repos\2021-M01-Advanced-Loops\Factoriel\obj\Debug\Factoriel.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Advanced-Loops\Factoriel\obj\Debug\Factoriel.exe
+F:\repos\2021-M01-Advanced-Loops\Factoriel\obj\Debug\Factoriel.pdb

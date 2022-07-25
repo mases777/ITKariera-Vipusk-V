@@ -1,0 +1,7 @@
+F:\repos\2021-M01-Podgotovka-za-izpit\Zadacha11\bin\Debug\Zadacha11.exe.config
+F:\repos\2021-M01-Podgotovka-za-izpit\Zadacha11\bin\Debug\Zadacha11.exe
+F:\repos\2021-M01-Podgotovka-za-izpit\Zadacha11\bin\Debug\Zadacha11.pdb
+F:\repos\2021-M01-Podgotovka-za-izpit\Zadacha11\obj\Debug\Zadacha11.csprojAssemblyReference.cache
+F:\repos\2021-M01-Podgotovka-za-izpit\Zadacha11\obj\Debug\Zadacha11.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Podgotovka-za-izpit\Zadacha11\obj\Debug\Zadacha11.exe
+F:\repos\2021-M01-Podgotovka-za-izpit\Zadacha11\obj\Debug\Zadacha11.pdb

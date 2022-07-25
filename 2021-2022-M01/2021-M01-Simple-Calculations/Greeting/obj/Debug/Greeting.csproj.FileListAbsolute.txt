@@ -1,0 +1,7 @@
+F:\repos\2021-M01-Simple-Calculations\Greeting\bin\Debug\Greeting.exe.config
+F:\repos\2021-M01-Simple-Calculations\Greeting\bin\Debug\Greeting.exe
+F:\repos\2021-M01-Simple-Calculations\Greeting\bin\Debug\Greeting.pdb
+F:\repos\2021-M01-Simple-Calculations\Greeting\obj\Debug\Greeting.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Simple-Calculations\Greeting\obj\Debug\Greeting.exe
+F:\repos\2021-M01-Simple-Calculations\Greeting\obj\Debug\Greeting.pdb
+F:\repos\2021-M01-Simple-Calculations\Greeting\obj\Debug\Greeting.csprojAssemblyReference.cache

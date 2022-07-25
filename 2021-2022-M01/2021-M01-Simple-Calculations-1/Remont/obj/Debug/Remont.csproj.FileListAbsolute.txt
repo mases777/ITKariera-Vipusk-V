@@ -1,0 +1,6 @@
+F:\repos\2021-M01-Simple-Calculations-1\Remont\bin\Debug\Remont.exe.config
+F:\repos\2021-M01-Simple-Calculations-1\Remont\bin\Debug\Remont.exe
+F:\repos\2021-M01-Simple-Calculations-1\Remont\bin\Debug\Remont.pdb
+F:\repos\2021-M01-Simple-Calculations-1\Remont\obj\Debug\Remont.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Simple-Calculations-1\Remont\obj\Debug\Remont.exe
+F:\repos\2021-M01-Simple-Calculations-1\Remont\obj\Debug\Remont.pdb

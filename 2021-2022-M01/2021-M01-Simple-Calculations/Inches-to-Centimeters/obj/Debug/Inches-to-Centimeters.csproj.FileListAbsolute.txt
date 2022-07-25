@@ -1,0 +1,6 @@
+F:\repos\2021-M01-Simple-Calculations\Inches-to-Centimeters\bin\Debug\Inches-to-Centimeters.exe.config
+F:\repos\2021-M01-Simple-Calculations\Inches-to-Centimeters\bin\Debug\Inches-to-Centimeters.exe
+F:\repos\2021-M01-Simple-Calculations\Inches-to-Centimeters\bin\Debug\Inches-to-Centimeters.pdb
+F:\repos\2021-M01-Simple-Calculations\Inches-to-Centimeters\obj\Debug\Inches-to-Centimeters.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Simple-Calculations\Inches-to-Centimeters\obj\Debug\Inches-to-Centimeters.exe
+F:\repos\2021-M01-Simple-Calculations\Inches-to-Centimeters\obj\Debug\Inches-to-Centimeters.pdb

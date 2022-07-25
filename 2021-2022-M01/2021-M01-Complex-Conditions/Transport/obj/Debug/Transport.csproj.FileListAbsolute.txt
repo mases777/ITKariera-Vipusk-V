@@ -1,0 +1,7 @@
+F:\repos\2021-M01-Complex-Conditions\Transport\bin\Debug\Transport.exe.config
+F:\repos\2021-M01-Complex-Conditions\Transport\bin\Debug\Transport.exe
+F:\repos\2021-M01-Complex-Conditions\Transport\bin\Debug\Transport.pdb
+F:\repos\2021-M01-Complex-Conditions\Transport\obj\Debug\Transport.csprojAssemblyReference.cache
+F:\repos\2021-M01-Complex-Conditions\Transport\obj\Debug\Transport.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Complex-Conditions\Transport\obj\Debug\Transport.exe
+F:\repos\2021-M01-Complex-Conditions\Transport\obj\Debug\Transport.pdb

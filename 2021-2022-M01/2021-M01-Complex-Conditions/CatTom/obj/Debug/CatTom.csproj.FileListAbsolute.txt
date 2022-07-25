@@ -1,0 +1,6 @@
+F:\repos\2021-M01-Complex-Conditions\CatTom\bin\Debug\CatTom.exe.config
+F:\repos\2021-M01-Complex-Conditions\CatTom\bin\Debug\CatTom.exe
+F:\repos\2021-M01-Complex-Conditions\CatTom\bin\Debug\CatTom.pdb
+F:\repos\2021-M01-Complex-Conditions\CatTom\obj\Debug\CatTom.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Complex-Conditions\CatTom\obj\Debug\CatTom.exe
+F:\repos\2021-M01-Complex-Conditions\CatTom\obj\Debug\CatTom.pdb

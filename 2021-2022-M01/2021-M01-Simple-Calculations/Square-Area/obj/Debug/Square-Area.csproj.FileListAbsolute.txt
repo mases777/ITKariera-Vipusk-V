@@ -1,0 +1,6 @@
+F:\repos\2021-M01-Simple-Calculations\Square-Area\bin\Debug\Square-Area.exe.config
+F:\repos\2021-M01-Simple-Calculations\Square-Area\bin\Debug\Square-Area.exe
+F:\repos\2021-M01-Simple-Calculations\Square-Area\bin\Debug\Square-Area.pdb
+F:\repos\2021-M01-Simple-Calculations\Square-Area\obj\Debug\Square-Area.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Simple-Calculations\Square-Area\obj\Debug\Square-Area.exe
+F:\repos\2021-M01-Simple-Calculations\Square-Area\obj\Debug\Square-Area.pdb

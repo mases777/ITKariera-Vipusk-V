@@ -1,0 +1,7 @@
+F:\repos\Simple-Conditions\Excellent_Result\bin\Debug\Excellent_Result.exe.config
+F:\repos\Simple-Conditions\Excellent_Result\bin\Debug\Excellent_Result.exe
+F:\repos\Simple-Conditions\Excellent_Result\bin\Debug\Excellent_Result.pdb
+F:\repos\Simple-Conditions\Excellent_Result\obj\Debug\Excellent_Result.csprojAssemblyReference.cache
+F:\repos\Simple-Conditions\Excellent_Result\obj\Debug\Excellent_Result.csproj.CoreCompileInputs.cache
+F:\repos\Simple-Conditions\Excellent_Result\obj\Debug\Excellent_Result.exe
+F:\repos\Simple-Conditions\Excellent_Result\obj\Debug\Excellent_Result.pdb

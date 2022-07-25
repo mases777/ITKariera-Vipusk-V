@@ -1,0 +1,7 @@
+F:\repos\2021-M01-Vavedenie\HelloSoftUni\bin\Debug\HelloSoftUni.exe.config
+F:\repos\2021-M01-Vavedenie\HelloSoftUni\bin\Debug\HelloSoftUni.exe
+F:\repos\2021-M01-Vavedenie\HelloSoftUni\bin\Debug\HelloSoftUni.pdb
+F:\repos\2021-M01-Vavedenie\HelloSoftUni\obj\Debug\HelloSoftUni.csprojAssemblyReference.cache
+F:\repos\2021-M01-Vavedenie\HelloSoftUni\obj\Debug\HelloSoftUni.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Vavedenie\HelloSoftUni\obj\Debug\HelloSoftUni.exe
+F:\repos\2021-M01-Vavedenie\HelloSoftUni\obj\Debug\HelloSoftUni.pdb

@@ -1,0 +1,7 @@
+F:\repos\2021-M01-Simple-Calculations-1\Uchebna_zala\bin\Debug\Uchebna_zala.exe.config
+F:\repos\2021-M01-Simple-Calculations-1\Uchebna_zala\bin\Debug\Uchebna_zala.exe
+F:\repos\2021-M01-Simple-Calculations-1\Uchebna_zala\bin\Debug\Uchebna_zala.pdb
+F:\repos\2021-M01-Simple-Calculations-1\Uchebna_zala\obj\Debug\Uchebna_zala.csprojAssemblyReference.cache
+F:\repos\2021-M01-Simple-Calculations-1\Uchebna_zala\obj\Debug\Uchebna_zala.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Simple-Calculations-1\Uchebna_zala\obj\Debug\Uchebna_zala.exe
+F:\repos\2021-M01-Simple-Calculations-1\Uchebna_zala\obj\Debug\Uchebna_zala.pdb

@@ -1,0 +1,7 @@
+F:\repos\2021-M01-Loops\Histogram\bin\Debug\Histogram.exe.config
+F:\repos\2021-M01-Loops\Histogram\bin\Debug\Histogram.exe
+F:\repos\2021-M01-Loops\Histogram\bin\Debug\Histogram.pdb
+F:\repos\2021-M01-Loops\Histogram\obj\Debug\Histogram.csprojAssemblyReference.cache
+F:\repos\2021-M01-Loops\Histogram\obj\Debug\Histogram.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Loops\Histogram\obj\Debug\Histogram.exe
+F:\repos\2021-M01-Loops\Histogram\obj\Debug\Histogram.pdb

@@ -1,0 +1,6 @@
+F:\repos\2021-M01-Simple-Calculations-1\Vegetable_Market\bin\Debug\Vegetable_Market.exe.config
+F:\repos\2021-M01-Simple-Calculations-1\Vegetable_Market\bin\Debug\Vegetable_Market.exe
+F:\repos\2021-M01-Simple-Calculations-1\Vegetable_Market\bin\Debug\Vegetable_Market.pdb
+F:\repos\2021-M01-Simple-Calculations-1\Vegetable_Market\obj\Debug\Vegetable_Market.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Simple-Calculations-1\Vegetable_Market\obj\Debug\Vegetable_Market.exe
+F:\repos\2021-M01-Simple-Calculations-1\Vegetable_Market\obj\Debug\Vegetable_Market.pdb

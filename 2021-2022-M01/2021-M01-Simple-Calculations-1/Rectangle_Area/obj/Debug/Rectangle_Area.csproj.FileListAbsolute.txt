@@ -1,0 +1,6 @@
+F:\repos\2021-M01-Simple-Calculations-1\Rectangle_Area\bin\Debug\Rectangle_Area.exe.config
+F:\repos\2021-M01-Simple-Calculations-1\Rectangle_Area\bin\Debug\Rectangle_Area.exe
+F:\repos\2021-M01-Simple-Calculations-1\Rectangle_Area\bin\Debug\Rectangle_Area.pdb
+F:\repos\2021-M01-Simple-Calculations-1\Rectangle_Area\obj\Debug\Rectangle_Area.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Simple-Calculations-1\Rectangle_Area\obj\Debug\Rectangle_Area.exe
+F:\repos\2021-M01-Simple-Calculations-1\Rectangle_Area\obj\Debug\Rectangle_Area.pdb

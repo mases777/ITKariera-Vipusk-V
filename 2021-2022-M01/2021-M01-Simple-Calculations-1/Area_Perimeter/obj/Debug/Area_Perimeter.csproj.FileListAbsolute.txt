@@ -1,0 +1,6 @@
+F:\repos\2021-M01-Simple-Calculations-1\Area_Perimeter\bin\Debug\Area_Perimeter.exe.config
+F:\repos\2021-M01-Simple-Calculations-1\Area_Perimeter\bin\Debug\Area_Perimeter.exe
+F:\repos\2021-M01-Simple-Calculations-1\Area_Perimeter\bin\Debug\Area_Perimeter.pdb
+F:\repos\2021-M01-Simple-Calculations-1\Area_Perimeter\obj\Debug\Area_Perimeter.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Simple-Calculations-1\Area_Perimeter\obj\Debug\Area_Perimeter.exe
+F:\repos\2021-M01-Simple-Calculations-1\Area_Perimeter\obj\Debug\Area_Perimeter.pdb

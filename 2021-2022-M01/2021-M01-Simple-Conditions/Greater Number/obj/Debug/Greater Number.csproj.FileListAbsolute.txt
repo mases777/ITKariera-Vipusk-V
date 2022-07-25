@@ -1,0 +1,7 @@
+F:\repos\Simple-Conditions\Greater Number\bin\Debug\Greater Number.exe.config
+F:\repos\Simple-Conditions\Greater Number\bin\Debug\Greater Number.exe
+F:\repos\Simple-Conditions\Greater Number\bin\Debug\Greater Number.pdb
+F:\repos\Simple-Conditions\Greater Number\obj\Debug\Greater Number.csprojAssemblyReference.cache
+F:\repos\Simple-Conditions\Greater Number\obj\Debug\Greater Number.csproj.CoreCompileInputs.cache
+F:\repos\Simple-Conditions\Greater Number\obj\Debug\Greater Number.exe
+F:\repos\Simple-Conditions\Greater Number\obj\Debug\Greater Number.pdb

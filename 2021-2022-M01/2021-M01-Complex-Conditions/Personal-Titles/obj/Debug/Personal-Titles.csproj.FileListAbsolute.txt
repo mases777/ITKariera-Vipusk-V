@@ -1,0 +1,7 @@
+F:\repos\2021-M01-Complex-Conditions\Personal-Titles\bin\Debug\Personal-Titles.exe.config
+F:\repos\2021-M01-Complex-Conditions\Personal-Titles\bin\Debug\Personal-Titles.exe
+F:\repos\2021-M01-Complex-Conditions\Personal-Titles\bin\Debug\Personal-Titles.pdb
+F:\repos\2021-M01-Complex-Conditions\Personal-Titles\obj\Debug\Personal-Titles.csprojAssemblyReference.cache
+F:\repos\2021-M01-Complex-Conditions\Personal-Titles\obj\Debug\Personal-Titles.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Complex-Conditions\Personal-Titles\obj\Debug\Personal-Titles.exe
+F:\repos\2021-M01-Complex-Conditions\Personal-Titles\obj\Debug\Personal-Titles.pdb

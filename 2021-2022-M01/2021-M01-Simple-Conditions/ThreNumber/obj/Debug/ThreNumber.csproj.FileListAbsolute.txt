@@ -1,0 +1,7 @@
+F:\repos\Simple-Conditions\ThreNumber\bin\Debug\ThreNumber.exe.config
+F:\repos\Simple-Conditions\ThreNumber\bin\Debug\ThreNumber.exe
+F:\repos\Simple-Conditions\ThreNumber\bin\Debug\ThreNumber.pdb
+F:\repos\Simple-Conditions\ThreNumber\obj\Debug\ThreNumber.csproj.CoreCompileInputs.cache
+F:\repos\Simple-Conditions\ThreNumber\obj\Debug\ThreNumber.exe
+F:\repos\Simple-Conditions\ThreNumber\obj\Debug\ThreNumber.pdb
+F:\repos\Simple-Conditions\ThreNumber\obj\Debug\ThreNumber.csprojAssemblyReference.cache

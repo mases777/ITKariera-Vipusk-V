@@ -1,0 +1,6 @@
+F:\repos\2021-M01-Simple-Calculations\Convert_C_F\bin\Debug\Convert_C_F.exe.config
+F:\repos\2021-M01-Simple-Calculations\Convert_C_F\bin\Debug\Convert_C_F.exe
+F:\repos\2021-M01-Simple-Calculations\Convert_C_F\bin\Debug\Convert_C_F.pdb
+F:\repos\2021-M01-Simple-Calculations\Convert_C_F\obj\Debug\Convert_C_F.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Simple-Calculations\Convert_C_F\obj\Debug\Convert_C_F.exe
+F:\repos\2021-M01-Simple-Calculations\Convert_C_F\obj\Debug\Convert_C_F.pdb

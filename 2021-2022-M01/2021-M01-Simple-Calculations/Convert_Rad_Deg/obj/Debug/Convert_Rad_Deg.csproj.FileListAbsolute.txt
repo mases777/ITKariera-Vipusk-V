@@ -1,0 +1,7 @@
+F:\repos\2021-M01-Simple-Calculations\Convert_Rad_Deg\bin\Debug\Convert_Rad_Deg.exe.config
+F:\repos\2021-M01-Simple-Calculations\Convert_Rad_Deg\bin\Debug\Convert_Rad_Deg.exe
+F:\repos\2021-M01-Simple-Calculations\Convert_Rad_Deg\bin\Debug\Convert_Rad_Deg.pdb
+F:\repos\2021-M01-Simple-Calculations\Convert_Rad_Deg\obj\Debug\Convert_Rad_Deg.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Simple-Calculations\Convert_Rad_Deg\obj\Debug\Convert_Rad_Deg.exe
+F:\repos\2021-M01-Simple-Calculations\Convert_Rad_Deg\obj\Debug\Convert_Rad_Deg.pdb
+F:\repos\2021-M01-Simple-Calculations\Convert_Rad_Deg\obj\Debug\Convert_Rad_Deg.csprojAssemblyReference.cache

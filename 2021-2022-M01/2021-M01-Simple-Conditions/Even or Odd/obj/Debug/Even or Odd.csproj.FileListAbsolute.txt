@@ -1,0 +1,6 @@
+F:\repos\Simple-Conditions\Even or Odd\bin\Debug\Even or Odd.exe.config
+F:\repos\Simple-Conditions\Even or Odd\bin\Debug\Even or Odd.exe
+F:\repos\Simple-Conditions\Even or Odd\bin\Debug\Even or Odd.pdb
+F:\repos\Simple-Conditions\Even or Odd\obj\Debug\Even or Odd.csproj.CoreCompileInputs.cache
+F:\repos\Simple-Conditions\Even or Odd\obj\Debug\Even or Odd.exe
+F:\repos\Simple-Conditions\Even or Odd\obj\Debug\Even or Odd.pdb

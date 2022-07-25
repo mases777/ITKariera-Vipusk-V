@@ -1,0 +1,7 @@
+F:\repos\2021-M01-Loops\DiamondOfStars\bin\Debug\DiamondOfStars.exe.config
+F:\repos\2021-M01-Loops\DiamondOfStars\bin\Debug\DiamondOfStars.exe
+F:\repos\2021-M01-Loops\DiamondOfStars\bin\Debug\DiamondOfStars.pdb
+F:\repos\2021-M01-Loops\DiamondOfStars\obj\Debug\DiamondOfStars.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Loops\DiamondOfStars\obj\Debug\DiamondOfStars.exe
+F:\repos\2021-M01-Loops\DiamondOfStars\obj\Debug\DiamondOfStars.pdb
+F:\repos\2021-M01-Loops\DiamondOfStars\obj\Debug\DiamondOfStars.csprojAssemblyReference.cache

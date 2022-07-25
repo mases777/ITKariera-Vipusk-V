@@ -1,0 +1,7 @@
+F:\repos\2021-M01-Advanced-Loops\EvenNumberWithCheck\bin\Debug\EvenNumberWithCheck.exe.config
+F:\repos\2021-M01-Advanced-Loops\EvenNumberWithCheck\bin\Debug\EvenNumberWithCheck.exe
+F:\repos\2021-M01-Advanced-Loops\EvenNumberWithCheck\bin\Debug\EvenNumberWithCheck.pdb
+F:\repos\2021-M01-Advanced-Loops\EvenNumberWithCheck\obj\Debug\EvenNumberWithCheck.csprojAssemblyReference.cache
+F:\repos\2021-M01-Advanced-Loops\EvenNumberWithCheck\obj\Debug\EvenNumberWithCheck.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Advanced-Loops\EvenNumberWithCheck\obj\Debug\EvenNumberWithCheck.exe
+F:\repos\2021-M01-Advanced-Loops\EvenNumberWithCheck\obj\Debug\EvenNumberWithCheck.pdb

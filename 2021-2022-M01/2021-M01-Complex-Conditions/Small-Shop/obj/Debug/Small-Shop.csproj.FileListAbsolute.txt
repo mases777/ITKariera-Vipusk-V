@@ -1,0 +1,6 @@
+F:\repos\2021-M01-Complex-Conditions\Small-Shop\bin\Debug\Small-Shop.exe.config
+F:\repos\2021-M01-Complex-Conditions\Small-Shop\bin\Debug\Small-Shop.exe
+F:\repos\2021-M01-Complex-Conditions\Small-Shop\bin\Debug\Small-Shop.pdb
+F:\repos\2021-M01-Complex-Conditions\Small-Shop\obj\Debug\Small-Shop.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Complex-Conditions\Small-Shop\obj\Debug\Small-Shop.exe
+F:\repos\2021-M01-Complex-Conditions\Small-Shop\obj\Debug\Small-Shop.pdb

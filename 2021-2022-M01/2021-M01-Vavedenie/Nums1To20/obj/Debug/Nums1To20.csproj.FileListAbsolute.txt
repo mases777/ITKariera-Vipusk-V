@@ -1,0 +1,6 @@
+F:\repos\2021-M01-Vavedenie\Nums1To20\bin\Debug\Nums1To20.exe.config
+F:\repos\2021-M01-Vavedenie\Nums1To20\bin\Debug\Nums1To20.exe
+F:\repos\2021-M01-Vavedenie\Nums1To20\bin\Debug\Nums1To20.pdb
+F:\repos\2021-M01-Vavedenie\Nums1To20\obj\Debug\Nums1To20.csproj.CoreCompileInputs.cache
+F:\repos\2021-M01-Vavedenie\Nums1To20\obj\Debug\Nums1To20.exe
+F:\repos\2021-M01-Vavedenie\Nums1To20\obj\Debug\Nums1To20.pdb
