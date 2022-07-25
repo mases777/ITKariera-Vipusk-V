@@ -1,0 +1,8 @@
+F:\repos\2022-M03-Classes\CarStore\bin\Debug\CarStore.exe.config
+F:\repos\2022-M03-Classes\CarStore\bin\Debug\CarStore.exe
+F:\repos\2022-M03-Classes\CarStore\bin\Debug\CarStore.pdb
+F:\repos\2022-M03-Classes\CarStore\obj\Debug\CarStore.csproj.AssemblyReference.cache
+F:\repos\2022-M03-Classes\CarStore\obj\Debug\CarStore.csproj.SuggestedBindingRedirects.cache
+F:\repos\2022-M03-Classes\CarStore\obj\Debug\CarStore.csproj.CoreCompileInputs.cache
+F:\repos\2022-M03-Classes\CarStore\obj\Debug\CarStore.exe
+F:\repos\2022-M03-Classes\CarStore\obj\Debug\CarStore.pdb

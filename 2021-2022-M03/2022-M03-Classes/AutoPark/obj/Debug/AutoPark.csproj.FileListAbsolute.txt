@@ -1,0 +1,8 @@
+F:\repos\2022-M03-Classes\AutoPark\bin\Debug\AutoPark.exe.config
+F:\repos\2022-M03-Classes\AutoPark\bin\Debug\AutoPark.exe
+F:\repos\2022-M03-Classes\AutoPark\bin\Debug\AutoPark.pdb
+F:\repos\2022-M03-Classes\AutoPark\obj\Debug\AutoPark.csproj.AssemblyReference.cache
+F:\repos\2022-M03-Classes\AutoPark\obj\Debug\AutoPark.csproj.SuggestedBindingRedirects.cache
+F:\repos\2022-M03-Classes\AutoPark\obj\Debug\AutoPark.csproj.CoreCompileInputs.cache
+F:\repos\2022-M03-Classes\AutoPark\obj\Debug\AutoPark.exe
+F:\repos\2022-M03-Classes\AutoPark\obj\Debug\AutoPark.pdb

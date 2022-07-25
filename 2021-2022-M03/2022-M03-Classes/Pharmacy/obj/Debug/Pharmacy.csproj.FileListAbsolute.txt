@@ -1,0 +1,8 @@
+F:\repos\2022-M03-Classes\Pharmacy\bin\Debug\Pharmacy.exe.config
+F:\repos\2022-M03-Classes\Pharmacy\bin\Debug\Pharmacy.exe
+F:\repos\2022-M03-Classes\Pharmacy\bin\Debug\Pharmacy.pdb
+F:\repos\2022-M03-Classes\Pharmacy\obj\Debug\Pharmacy.csproj.AssemblyReference.cache
+F:\repos\2022-M03-Classes\Pharmacy\obj\Debug\Pharmacy.csproj.SuggestedBindingRedirects.cache
+F:\repos\2022-M03-Classes\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+F:\repos\2022-M03-Classes\Pharmacy\obj\Debug\Pharmacy.exe
+F:\repos\2022-M03-Classes\Pharmacy\obj\Debug\Pharmacy.pdb
