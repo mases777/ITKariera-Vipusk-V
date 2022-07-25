@@ -1,0 +1,8 @@
+F:\repos\2022-M04-Podgotovka\School\bin\Debug\School.exe.config
+F:\repos\2022-M04-Podgotovka\School\bin\Debug\School.exe
+F:\repos\2022-M04-Podgotovka\School\bin\Debug\School.pdb
+F:\repos\2022-M04-Podgotovka\School\obj\Debug\School.csproj.AssemblyReference.cache
+F:\repos\2022-M04-Podgotovka\School\obj\Debug\School.csproj.SuggestedBindingRedirects.cache
+F:\repos\2022-M04-Podgotovka\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+F:\repos\2022-M04-Podgotovka\School\obj\Debug\School.exe
+F:\repos\2022-M04-Podgotovka\School\obj\Debug\School.pdb

@@ -1,0 +1,7 @@
+F:\repos\2022-M04-UASD\Zadacha08\bin\Debug\Zadacha08.exe.config
+F:\repos\2022-M04-UASD\Zadacha08\bin\Debug\Zadacha08.exe
+F:\repos\2022-M04-UASD\Zadacha08\bin\Debug\Zadacha08.pdb
+F:\repos\2022-M04-UASD\Zadacha08\obj\Debug\Zadacha08.csproj.SuggestedBindingRedirects.cache
+F:\repos\2022-M04-UASD\Zadacha08\obj\Debug\Zadacha08.csproj.CoreCompileInputs.cache
+F:\repos\2022-M04-UASD\Zadacha08\obj\Debug\Zadacha08.exe
+F:\repos\2022-M04-UASD\Zadacha08\obj\Debug\Zadacha08.pdb

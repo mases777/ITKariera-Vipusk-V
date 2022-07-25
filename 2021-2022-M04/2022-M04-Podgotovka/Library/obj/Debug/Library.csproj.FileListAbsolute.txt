@@ -1,0 +1,8 @@
+F:\repos\2022-M04-Podgotovka\Library\bin\Debug\Library.exe.config
+F:\repos\2022-M04-Podgotovka\Library\bin\Debug\Library.exe
+F:\repos\2022-M04-Podgotovka\Library\bin\Debug\Library.pdb
+F:\repos\2022-M04-Podgotovka\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+F:\repos\2022-M04-Podgotovka\Library\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+F:\repos\2022-M04-Podgotovka\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+F:\repos\2022-M04-Podgotovka\Library\obj\Debug\Library.exe
+F:\repos\2022-M04-Podgotovka\Library\obj\Debug\Library.pdb

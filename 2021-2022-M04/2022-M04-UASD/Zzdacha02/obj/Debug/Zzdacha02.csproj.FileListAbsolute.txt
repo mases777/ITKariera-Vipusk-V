@@ -1,0 +1,7 @@
+F:\repos\2022-M04-UASD\Zzdacha02\bin\Debug\Zzdacha02.exe.config
+F:\repos\2022-M04-UASD\Zzdacha02\bin\Debug\Zzdacha02.exe
+F:\repos\2022-M04-UASD\Zzdacha02\bin\Debug\Zzdacha02.pdb
+F:\repos\2022-M04-UASD\Zzdacha02\obj\Debug\Zzdacha02.csproj.SuggestedBindingRedirects.cache
+F:\repos\2022-M04-UASD\Zzdacha02\obj\Debug\Zzdacha02.csproj.CoreCompileInputs.cache
+F:\repos\2022-M04-UASD\Zzdacha02\obj\Debug\Zzdacha02.exe
+F:\repos\2022-M04-UASD\Zzdacha02\obj\Debug\Zzdacha02.pdb

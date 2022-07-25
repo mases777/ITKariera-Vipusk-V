@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "99e9ad86-c048-4bde-b0fd-9062b9ce3b42": {
+      "ProjectGuid": "99e9ad86-c048-4bde-b0fd-9062b9ce3b42",
+      "DisplayName": "2022-M04-Podgotovka",
+      "ColorIndex": 0
+    },
+    "b277b7c9-5023-4731-8f6e-48039caed528": {
+      "ProjectGuid": "b277b7c9-5023-4731-8f6e-48039caed528",
+      "DisplayName": "Library",
+      "ColorIndex": 1
+    },
+    "093a4148-8e94-4140-9d38-76887e1421d9": {
+      "ProjectGuid": "093a4148-8e94-4140-9d38-76887e1421d9",
+      "DisplayName": "School",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

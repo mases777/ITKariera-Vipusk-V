@@ -1,0 +1,8 @@
+F:\repos\2022-M04-Sorting\Zadacha05\bin\Debug\Zadacha05.exe.config
+F:\repos\2022-M04-Sorting\Zadacha05\bin\Debug\Zadacha05.exe
+F:\repos\2022-M04-Sorting\Zadacha05\bin\Debug\Zadacha05.pdb
+F:\repos\2022-M04-Sorting\Zadacha05\obj\Debug\Zadacha05.csproj.SuggestedBindingRedirects.cache
+F:\repos\2022-M04-Sorting\Zadacha05\obj\Debug\Zadacha05.csproj.CoreCompileInputs.cache
+F:\repos\2022-M04-Sorting\Zadacha05\obj\Debug\Zadacha05.exe
+F:\repos\2022-M04-Sorting\Zadacha05\obj\Debug\Zadacha05.pdb
+F:\repos\2022-M04-Sorting\Zadacha05\obj\Debug\Zadacha05.csproj.AssemblyReference.cache

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2e125f07-b998-4844-8519-589f11b0d109": {
+      "ProjectGuid": "2e125f07-b998-4844-8519-589f11b0d109",
+      "DisplayName": "ConsoleApp3",
+      "ColorIndex": 0
+    },
+    "0c1c6f78-7d48-40ee-8eb1-6e234059f7a0": {
+      "ProjectGuid": "0c1c6f78-7d48-40ee-8eb1-6e234059f7a0",
+      "DisplayName": "Zadacha01",
+      "ColorIndex": 1
+    },
+    "2429b9f5-5f6e-4747-b30d-9348350a8470": {
+      "ProjectGuid": "2429b9f5-5f6e-4747-b30d-9348350a8470",
+      "DisplayName": "Zadacha02",
+      "ColorIndex": 2
+    },
+    "7625a78c-4c7d-47d8-8bec-a8d04229333c": {
+      "ProjectGuid": "7625a78c-4c7d-47d8-8bec-a8d04229333c",
+      "DisplayName": "Zadacha03",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
