@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f888bf46-5cc1-4a3f-bf96-9d95899a4f8f": {
+      "ProjectGuid": "f888bf46-5cc1-4a3f-bf96-9d95899a4f8f",
+      "DisplayName": "ConsoleApp3",
+      "ColorIndex": 0
+    },
+    "dd2f0da4-2714-48a2-bfa8-7facbe618af2": {
+      "ProjectGuid": "dd2f0da4-2714-48a2-bfa8-7facbe618af2",
+      "DisplayName": "01.Компютърен кабинет",
+      "ColorIndex": 1
+    },
+    "5ee8971c-080d-4ba2-8a63-3217382e30ed": {
+      "ProjectGuid": "5ee8971c-080d-4ba2-8a63-3217382e30ed",
+      "DisplayName": "02.Пациенти",
+      "ColorIndex": 2
+    },
+    "dcc42481-6e29-482d-abea-a4cc4068593a": {
+      "ProjectGuid": "dcc42481-6e29-482d-abea-a4cc4068593a",
+      "DisplayName": "03.Игра на имена",
+      "ColorIndex": 3
+    },
+    "bddc6775-98d8-493e-8340-f287f287e209": {
+      "ProjectGuid": "bddc6775-98d8-493e-8340-f287f287e209",
+      "DisplayName": "04.Статистика за пасове",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
