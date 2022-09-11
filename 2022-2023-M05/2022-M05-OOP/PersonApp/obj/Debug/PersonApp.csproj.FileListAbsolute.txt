@@ -1,0 +1,8 @@
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-OOP\PersonApp\bin\Debug\PersonApp.exe.config
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-OOP\PersonApp\bin\Debug\PersonApp.exe
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-OOP\PersonApp\bin\Debug\PersonApp.pdb
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-OOP\PersonApp\obj\Debug\PersonApp.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-OOP\PersonApp\obj\Debug\PersonApp.csproj.SuggestedBindingRedirects.cache
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-OOP\PersonApp\obj\Debug\PersonApp.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-OOP\PersonApp\obj\Debug\PersonApp.exe
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-OOP\PersonApp\obj\Debug\PersonApp.pdb
