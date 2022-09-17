@@ -1,0 +1,8 @@
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Templates\Zadacha03\bin\Debug\Zadacha03.exe.config
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Templates\Zadacha03\bin\Debug\Zadacha03.exe
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Templates\Zadacha03\bin\Debug\Zadacha03.pdb
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Templates\Zadacha03\obj\Debug\Zadacha03.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Templates\Zadacha03\obj\Debug\Zadacha03.csproj.SuggestedBindingRedirects.cache
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Templates\Zadacha03\obj\Debug\Zadacha03.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Templates\Zadacha03\obj\Debug\Zadacha03.exe
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Templates\Zadacha03\obj\Debug\Zadacha03.pdb
