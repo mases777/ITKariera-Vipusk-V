@@ -1,0 +1,14 @@
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Izpit\ParkingSystem\bin\Debug\netcoreapp3.1\ParkingSystem.exe
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Izpit\ParkingSystem\bin\Debug\netcoreapp3.1\ParkingSystem.deps.json
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Izpit\ParkingSystem\bin\Debug\netcoreapp3.1\ParkingSystem.runtimeconfig.json
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Izpit\ParkingSystem\bin\Debug\netcoreapp3.1\ParkingSystem.runtimeconfig.dev.json
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Izpit\ParkingSystem\bin\Debug\netcoreapp3.1\ParkingSystem.dll
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Izpit\ParkingSystem\bin\Debug\netcoreapp3.1\ParkingSystem.pdb
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Izpit\ParkingSystem\obj\Debug\netcoreapp3.1\ParkingSystem.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Izpit\ParkingSystem\obj\Debug\netcoreapp3.1\ParkingSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Izpit\ParkingSystem\obj\Debug\netcoreapp3.1\ParkingSystem.AssemblyInfoInputs.cache
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Izpit\ParkingSystem\obj\Debug\netcoreapp3.1\ParkingSystem.AssemblyInfo.cs
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Izpit\ParkingSystem\obj\Debug\netcoreapp3.1\ParkingSystem.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Izpit\ParkingSystem\obj\Debug\netcoreapp3.1\ParkingSystem.dll
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Izpit\ParkingSystem\obj\Debug\netcoreapp3.1\ParkingSystem.pdb
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Izpit\ParkingSystem\obj\Debug\netcoreapp3.1\ParkingSystem.genruntimeconfig.cache
