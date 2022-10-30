@@ -1,0 +1,14 @@
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Popravitelen-izpit\Zadacha01\bin\Debug\netcoreapp3.1\Zadacha01.exe
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Popravitelen-izpit\Zadacha01\bin\Debug\netcoreapp3.1\Zadacha01.deps.json
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Popravitelen-izpit\Zadacha01\bin\Debug\netcoreapp3.1\Zadacha01.runtimeconfig.json
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Popravitelen-izpit\Zadacha01\bin\Debug\netcoreapp3.1\Zadacha01.runtimeconfig.dev.json
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Popravitelen-izpit\Zadacha01\bin\Debug\netcoreapp3.1\Zadacha01.dll
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Popravitelen-izpit\Zadacha01\bin\Debug\netcoreapp3.1\Zadacha01.pdb
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Popravitelen-izpit\Zadacha01\obj\Debug\netcoreapp3.1\Zadacha01.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Popravitelen-izpit\Zadacha01\obj\Debug\netcoreapp3.1\Zadacha01.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Popravitelen-izpit\Zadacha01\obj\Debug\netcoreapp3.1\Zadacha01.AssemblyInfoInputs.cache
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Popravitelen-izpit\Zadacha01\obj\Debug\netcoreapp3.1\Zadacha01.AssemblyInfo.cs
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Popravitelen-izpit\Zadacha01\obj\Debug\netcoreapp3.1\Zadacha01.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Popravitelen-izpit\Zadacha01\obj\Debug\netcoreapp3.1\Zadacha01.dll
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Popravitelen-izpit\Zadacha01\obj\Debug\netcoreapp3.1\Zadacha01.pdb
+F:\repos\ITKariera-Vipusk-V\2022-2023-M05\2022-M05-Popravitelen-izpit\Zadacha01\obj\Debug\netcoreapp3.1\Zadacha01.genruntimeconfig.cache
