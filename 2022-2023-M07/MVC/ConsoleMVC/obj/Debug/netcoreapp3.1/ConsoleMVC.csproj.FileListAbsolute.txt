@@ -1,0 +1,14 @@
+F:\repos\ITKariera-Vipusk-V\2022-2023-M07\MVC\ConsoleMVC\bin\Debug\netcoreapp3.1\ConsoleMVC.exe
+F:\repos\ITKariera-Vipusk-V\2022-2023-M07\MVC\ConsoleMVC\bin\Debug\netcoreapp3.1\ConsoleMVC.deps.json
+F:\repos\ITKariera-Vipusk-V\2022-2023-M07\MVC\ConsoleMVC\bin\Debug\netcoreapp3.1\ConsoleMVC.runtimeconfig.json
+F:\repos\ITKariera-Vipusk-V\2022-2023-M07\MVC\ConsoleMVC\bin\Debug\netcoreapp3.1\ConsoleMVC.runtimeconfig.dev.json
+F:\repos\ITKariera-Vipusk-V\2022-2023-M07\MVC\ConsoleMVC\bin\Debug\netcoreapp3.1\ConsoleMVC.dll
+F:\repos\ITKariera-Vipusk-V\2022-2023-M07\MVC\ConsoleMVC\bin\Debug\netcoreapp3.1\ConsoleMVC.pdb
+F:\repos\ITKariera-Vipusk-V\2022-2023-M07\MVC\ConsoleMVC\obj\Debug\netcoreapp3.1\ConsoleMVC.csproj.AssemblyReference.cache
+F:\repos\ITKariera-Vipusk-V\2022-2023-M07\MVC\ConsoleMVC\obj\Debug\netcoreapp3.1\ConsoleMVC.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\ITKariera-Vipusk-V\2022-2023-M07\MVC\ConsoleMVC\obj\Debug\netcoreapp3.1\ConsoleMVC.AssemblyInfoInputs.cache
+F:\repos\ITKariera-Vipusk-V\2022-2023-M07\MVC\ConsoleMVC\obj\Debug\netcoreapp3.1\ConsoleMVC.AssemblyInfo.cs
+F:\repos\ITKariera-Vipusk-V\2022-2023-M07\MVC\ConsoleMVC\obj\Debug\netcoreapp3.1\ConsoleMVC.csproj.CoreCompileInputs.cache
+F:\repos\ITKariera-Vipusk-V\2022-2023-M07\MVC\ConsoleMVC\obj\Debug\netcoreapp3.1\ConsoleMVC.dll
+F:\repos\ITKariera-Vipusk-V\2022-2023-M07\MVC\ConsoleMVC\obj\Debug\netcoreapp3.1\ConsoleMVC.pdb
+F:\repos\ITKariera-Vipusk-V\2022-2023-M07\MVC\ConsoleMVC\obj\Debug\netcoreapp3.1\ConsoleMVC.genruntimeconfig.cache
